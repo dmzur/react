@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Form } from './components/Form';
-import { MessageList } from './components/MessageList/MessageList';
+import { MessageList } from './components/MessageList';
 import { AUTHOR } from './constants';
 
 export const App = () => {
